@@ -1,0 +1,15 @@
+gunicorn
+Flask
+tensorflow
+keras
+numpy==1.20.3  # tensorflow needs this version of numpy, otherwise it will crash on import
+pandas
+opencv-python
+matplotlib
+scikit_learn
+Pillow
+scipy
+six
+Werkzeug
+Jinja2
+joblib
